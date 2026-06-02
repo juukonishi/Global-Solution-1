@@ -10,13 +10,3 @@
 ## O que o projeto faz
 
 Sistema de monitoramento energético de missão espacial desenvolvido em Python. O programa simula ciclos operacionais analisando geração de energia solar, consumo dos módulos, eficiência do sistema, temperatura dos painéis e comunicação. Gera alertas automáticos por nível de risco e exibe um relatório final com balanço energético da missão.
-
----
-
-## Como executar
-
-```bash
-python mission_control_sers.py
-```
-
----

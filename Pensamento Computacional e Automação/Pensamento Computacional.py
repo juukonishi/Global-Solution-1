@@ -1,5 +1,5 @@
-NOME_MISSAO = "Simulador de Missão"
-NOME_EQUIPE  = "Equipe Orbital"
+NOME_MISSAO = "Mission Control"
+NOME_EQUIPE  = "Júlia Konishi, João Scheren, João Neves"
 
 dados_missao = [
     [22, 95, 91, 98, 92],

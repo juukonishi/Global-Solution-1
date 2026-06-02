@@ -28,7 +28,3 @@ O projeto está alinhado aos **Objetivos de Desenvolvimento Sustentável da ONU*
 🔋 **ODS 7** — Energia limpa e acessível  
 🏙️ **ODS 11** — Cidades inteligentes  
 🌱 **ODS 13** — Ação climática  
-
----
-
-*FIAP — Global Solution 2026.1*

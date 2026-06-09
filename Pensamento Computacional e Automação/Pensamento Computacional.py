@@ -1,5 +1,5 @@
 NOME_MISSAO = "Mission Control"
-NOME_EQUIPE  = "Júlia Konishi, João Scheren, João Neves"
+NOME_EQUIPE  = "Jojo"
 
 dados_missao = [
     [22, 95, 91, 98, 92],

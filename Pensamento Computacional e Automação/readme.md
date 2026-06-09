@@ -1,4 +1,4 @@
-# 🚀 Mission Control — Pensamento Computacional e Automação com Python
+# 🚀 Jupiter — Pensamento Computacional e Automação com Python
 
 **Integrantes:**
 - Júlia Konishi — RM: 569506

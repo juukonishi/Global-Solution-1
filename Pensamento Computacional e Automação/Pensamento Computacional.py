@@ -1,4 +1,4 @@
-NOME_MISSAO = "Mission Control"
+NOME_MISSAO = "Jupiter"
 NOME_EQUIPE  = "Jojo"
 
 dados_missao = [

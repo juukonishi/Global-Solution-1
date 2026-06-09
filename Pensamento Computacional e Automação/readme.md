@@ -1,4 +1,4 @@
-# 🚀 Mission Control AI — Pensamento Computacional e Automação com Python
+# 🚀 Mission Control — Pensamento Computacional e Automação com Python
 
 **Integrantes:**
 - Júlia Konishi — RM: 569506
